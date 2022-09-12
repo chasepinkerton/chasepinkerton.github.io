@@ -1,0 +1,36 @@
+CS20 Web ProgrammingAssignment 1:  Get on the Web
+
+Deliverables
+URL for page on cPanel hosting
+URL for page on github hosting
+Answers to questions
+Tasks
+	•	Create an HTML web page using any plain text editor, 
+        Dreamweaver, or other HTML worthy editor.  You MAY NOT use a page builder. 
+
+	•	The content for the page should be as follows:
+	•	Your first name
+	•	Your major
+	•	Your IP address (i.e., the IP address where your computer is located)
+	•	Where you grew up
+	•	Something no one would expect about you
+	•	A picture of your favorite place.
+Each item should be on its own line.
+Feel free to play around with additional HTML code on your page after you have met the       requirements.
+3.  Upload the page to github pages and ensure that you can view it online (not through your file system).  Note the URL.  Here is additional information about github pages: https://pages.github.com/
+4. Upload the page to your cpanel hosting.  Note the URL.
+5. View both URL's from your phone.  The page may not look right on your phone, but all of the elements should be in place. Ensure you can see images and all content.  (We will be covering responsive design later when we cover CSS so it is ok if it doesn’t look great on mobile)
+Questions
+	•	 Name one advantage to using github and one advantage to using the cpanel hosting.
+	•	Which of the two types of hosting do you prefer and why?
+	•	What was the most satisfying part of this assignment?
+Rubric
+Page runs online - 40 points (20pts each platform)
+HTML code is correct and complete – 50 points
+Creativity/effort – 10 points
+
+
+Example Page:
+
+
+
